@@ -1,93 +1,37 @@
-import numpy as np
-import os
+from flask import Flask, render_template, redirect
+from flask_pymongo import PyMongo
 
-import sqlalchemy
-from sqlalchemy.ext.automap import automap_base
-from sqlalchemy.orm import Session
-from sqlalchemy import create_engine
+# From the separate python file in this directory, we'll import the code that is used to scrape craigslist
+import scrape_craigslist
 
-from flask import Flask, jsonify
-
-
-#################################################
-# Database Setup
-#################################################
-engine = create_engine("sqlite:///.....")
-
-# reflect an existing database into a new model
-Base = automap_base()
-Base.prepare(engine, reflect=True)
-
-# Save reference to the table
-Passenger = Base.classes.passenger
-
-#################################################
-# Flask Setup
-#################################################
 app = Flask(__name__)
 
-#################################################
-# Flask Routes
-#################################################
+# Use flask_pymongo to set up mongo connection
+app.config["MONGO_URI"] = "mongodb://localhost:27017/craigslist_app"
+mongo = PyMongo(app)
 
+# identify the collection and drop any existing data for this demonstration
+listings = mongo.db.listings
+listings.drop()
 
-def double(inp):
-    if inp is not None:
-        return inp*2
-    else:
-        return None
-
+# Render the index.html page with any craigslist listings in our database. 
+# If there are no listings, the table will be empty.
 @app.route("/")
-def welcome():
-    """List all available api routes."""
-    return (
-        f"Available Routes:<br/>"
-        f"/api/v1.0/names<br/>"
-        f"/api/v1.0/passengers"
-    )
+def index():
+    listing_results = listings.find()
+    return render_template("index.html", listing_results=listing_results)
 
-@app.route('/api/v1.0/names')
-def names():
-    # Query all passengers
-    session = Session(engine)
-    results = session.query(Passenger.name).all()
+# This route will trigger the webscraping, but it will then send us back to the index route to render the results
+@app.route("/scrape")
+def scraper():
 
-    # close the session to end communication with the server
-    session.close()
-
-    all_names = list(np.ravel(results))
-    # alternative with list comprehension
-    # all_names = [result[0] for result in results]
-
-    return jsonify(all_names)
+    # scrape_craigslist.scrape() is a custom function that we've defined in the scrape_craigslist.py file within this directory
+    listings_data = scrape_craigslist.scrape(search_term="mountain bike")
+    listings.insert_many(listings_data)
+    
+    # Use Flask's redirect function to send us to a different route once this task has completed.
+    return redirect("/")
 
 
-@app.route('/api/v1.0/passengers')
-def passengers():
-
-    ############### Database Block ###################
-    # Start session
-    session = Session(engine)
-
-    # Query the database
-    results = session.query(Passenger).all()
-
-    # close session
-    session.close()
-    ###################################################
-
-    ################### Processing ####################
-    all_passengers = []
-    for passenger in results:
-        passenger_dict = {}
-        passenger_dict['name'] = {'first':passenger.name.split(' ')[1],'last':passenger.name.split(' ')[0]}
-        passenger_dict['age'] = passenger.age
-        passenger_dict['doubleAge'] = double(passenger.age)
-        passenger_dict['sex'] = passenger.sex
-        all_passengers.append(passenger_dict)
-    ####################################################
-
-    return jsonify(all_passengers)
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     app.run(debug=True)
