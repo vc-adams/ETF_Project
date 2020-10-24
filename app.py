@@ -47,29 +47,40 @@ def welcome():
 def zip(by_Zip = None):
     """Return the car insurance and weather data by zip code"""
         
-    search_zip = test.replace(" ","").lower()
+    # search_zip = test.replace(" ","").lower() <-- don't think I need this, it was for text entry
+    search_zip = by_Zip
+    zip_search_list = []
 
     for zip in test:
-        search_zip = character['real_name'].replace(" ","").lower()
+        zipcode_result = test['by_Zip...or whatever we call the zip column']
+            #.replace(" ","").lower()
+        zip_test_dict = {}
 
-        if real_name_lowered == search_zip:
-            return jsonify(by_zip)
+        if zipcode_result == search_zip:
+            #return jsonify(zip)
 
-    return jsonify({'error':"Something went horribly wrong, no one must drive a car in your area"})
+            zip_test_dict['min temp']= zip.min
+            zip_test_dict['max temp']= zip.max
+            zip_test_dict['average temp']= zip.avg
+            zip_search_list.append(zip_test_dict)
+
+            return jsonify(zip_search_list)
+
+    return jsonify({'error':"Something went horribly wrong, no one ever learned to drive a car in your area."})
 
 
     #################
-        if end:
+        # if end:
 
-        init_query = session.query(func.min(measurement.tobs).label('min'), func.max(measurement.tobs).label('max'), func.avg(measurement.tobs).label('avg'))
-        results_end = init_query.filter(measurement.date >= start).filter(measurement.date <= end).all()
+        # init_query = session.query(func.min(measurement.tobs).label('min'), func.max(measurement.tobs).label('max'), func.avg(measurement.tobs).label('avg'))
+        # results_end = init_query.filter(measurement.date >= start).filter(measurement.date <= end).all()
 
-        else:
+        # else:
 
-        init_query = session.query(func.min(measurement.tobs).label('min'), func.max(measurement.tobs).label('max'), func.avg(measurement.tobs).label('avg'))
-        results_end = init_query.filter(measurement.date >= start).all()
+        # init_query = session.query(func.min(measurement.tobs).label('min'), func.max(measurement.tobs).label('max'), func.avg(measurement.tobs).label('avg'))
+        # results_end = init_query.filter(measurement.date >= start).all()
 
-        return jsonify(hawaii_measurements_dates) 
+        # return jsonify(hawaii_measurements_dates) 
     #################
 
 
@@ -88,20 +99,37 @@ def zip(by_Zip = None):
 
 
 
-
-
-
 # return the data according to city entry
 @app.route("/api/v1.0/<by_City>")
 def city(by_City = None):
     """Return the car insurance and weather data by Zip Code"""
 
+    search_city = by_City
+
+    for city in test:
+        city_result = test['by_City']
+            #.replace(" ","").lower()
+
+        if city_result == search_city:
+            return jsonify(test)
+
+    return jsonify({'error':"Something went horribly wrong; Tesla overtook your city - autopilot only = no insurance necessary."})
 
 # return the data according to city entry
 @app.route("/api/v1.0/<by_State>")
 def state(by_State = None):
     """Return the car insurance and weather data by State"""
 
+    search_State = by_State
+
+    for state in test:
+        state_result = test['by_State']
+            #.replace(" ","").lower()
+
+        if state_result == search_state:
+            return jsonify(test)
+
+    return jsonify({'error':"Something went horribly wrong; your state has been taken over by murder hornets - no driving for you!"})
 
 # return the data according to city entry
 @app.route("/api/v1.0/all_data")
