@@ -36,9 +36,9 @@ def welcome():
     return (
         f"Welcome! Utilize this API to find Car Insurance Data by Area<br/>"
         f"Available searches are as follows:<br/>"
-        f"Enter a Zip@          /api/v1.0/<by_ZIP><br/>"
-        f"Enter a City@         /api/v1.0/<by_city><br/>"
-        f"Enter a State@        /api/v1.0/<by_state><br/>"
+        f"Enter a Zip@          /api/v1.0/by_zip<br/>"
+        f"Enter a City@         /api/v1.0/by_city<br/>"
+        f"Enter a State@        /api/v1.0/by_state<br/>"
         f"Or, return all data@  /api/v1.0/all_data<br/>"
     )
 
