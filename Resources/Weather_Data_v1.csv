@@ -1,0 +1,221 @@
+Zip_Code,City,Weather_Forecast,Weather_Description,Max_Temperature,Min_Temperature,Humidity
+02119,Boston,Clouds,overcast clouds,48.99,43,57
+02119,Boston,Clouds,overcast clouds,48.99,43,57
+02554,Fall River,Clouds,overcast clouds,50,48,61
+02842,Newport,Clouds,overcast clouds,50,46.4,75
+02907,Cranston,Clouds,overcast clouds,46.99,44.01,75
+02909,Providence,Clouds,overcast clouds,46.99,44.01,75
+03104,Manchester,Clouds,scattered clouds,37.99,33.01,90
+03104,Manchester,Clouds,scattered clouds,37.99,33.01,90
+03431,Concord,Clear,clear sky,37,33.8,73
+04684,Bangor,Clear,clear sky,33.01,30.2,86
+04686,Bangor,Clouds,scattered clouds,30,27,79
+04742,Caribou,Clear,clear sky,26.6,21.2,79
+05060,Montpelier,Clouds,overcast clouds,33.01,33.01,66
+05079,Lebanon,Clouds,broken clouds,36,30.99,76
+05446,Burlington,Clouds,broken clouds,37.99,34,77
+06101,Hartford,Clouds,overcast clouds,46.99,44.01,75
+06103,Hartford,Clouds,overcast clouds,46.99,44.01,75
+06340,Newport,Clouds,overcast clouds,48.99,48,70
+06340,Newport,Clouds,overcast clouds,48.99,48,70
+07102,Newark,Mist,mist,53.6,48.2,93
+07111,Newark,Mist,mist,53.6,46.4,93
+07926,Elizabeth,Mist,mist,48,44.01,93
+11212,New York,Clouds,overcast clouds,55.99,48.2,87
+11212,New York,Clouds,overcast clouds,55.99,48.2,87
+14830,Binghamton,Clouds,overcast clouds,44.6,37.99,81
+16823,Altoona,Rain,light rain,43,39.99,93
+19133,Philadelphia,Clouds,overcast clouds,48.99,46.99,87
+19140,Philadelphia,Mist,mist,48.2,44.6,93
+19736,Wilmington,Clouds,overcast clouds,48.99,45,87
+19930,Salisbury,Rain,moderate rain,62.01,57.99,96
+20001,Washington D.C.,Drizzle,light intensity drizzle,48.2,46,93
+20002,Washington D.C.,Drizzle,light intensity drizzle,48.2,46,93
+20016,Bethesda,Drizzle,light intensity drizzle,48.2,45,93
+21216,Baltimore,Clouds,overcast clouds,48.2,46,87
+21216,Baltimore,Clouds,overcast clouds,48.2,46,87
+21783,Hagerstown,Mist,mist,46,41,93
+22312,Alexandria,Drizzle,light intensity drizzle,48.2,45,93
+22312,Alexandria,Drizzle,light intensity drizzle,48.2,45,93
+22801,Harrisonburg,Clouds,overcast clouds,46,43,100
+22801,Harrisonburg,Clouds,overcast clouds,46,43,100
+22802,Harrisonburg,Clouds,overcast clouds,45,43,89
+22802,Harrisonburg,Clouds,overcast clouds,45,43,89
+22803,Harrisonburg,Clouds,overcast clouds,46,43,100
+22803,Harrisonburg,Clouds,overcast clouds,46,43,100
+22811,Harrisonburg,Clouds,overcast clouds,43,41,99
+22811,Harrisonburg,Clouds,overcast clouds,43,41,99
+22812,Harrisonburg,Clouds,overcast clouds,46,44.01,100
+22812,Harrisonburg,Clouds,overcast clouds,46,44.01,100
+22815,Harrisonburg,Clouds,overcast clouds,44.01,43,93
+22815,Harrisonburg,Clouds,overcast clouds,44.01,43,93
+22821,Harrisonburg,Clouds,overcast clouds,46,44.6,100
+22821,Harrisonburg,Clouds,overcast clouds,46,44.6,100
+22824,Harrisonburg,Clouds,overcast clouds,45,41,97
+22824,Harrisonburg,Clouds,overcast clouds,45,41,97
+22830,Harrisonburg,Clouds,overcast clouds,44.01,43,93
+22830,Harrisonburg,Clouds,overcast clouds,44.01,43,93
+22833,Harrisonburg,Clouds,overcast clouds,45,43,89
+22833,Harrisonburg,Clouds,overcast clouds,45,43,89
+22834,Harrisonburg,Clouds,overcast clouds,45,43,93
+22834,Harrisonburg,Clouds,overcast clouds,45,43,93
+22840,Harrisonburg,Mist,mist,46,44.01,100
+22840,Harrisonburg,Mist,mist,46,44.01,100
+22841,Harrisonburg,Clouds,overcast clouds,46,44.01,100
+22841,Harrisonburg,Clouds,overcast clouds,46,44.01,100
+22848,Harrisonburg,Clouds,overcast clouds,46,44.01,100
+22848,Harrisonburg,Clouds,overcast clouds,46,44.01,100
+22853,Harrisonburg,Clouds,overcast clouds,44.01,43,93
+22853,Harrisonburg,Clouds,overcast clouds,44.01,43,93
+22939,Harrisonburg,Clouds,overcast clouds,46,43,100
+22939,Harrisonburg,Clouds,overcast clouds,46,43,100
+24060,Roanoke,Drizzle,light intensity drizzle,51.01,48,100
+24060,Roanoke,Drizzle,light intensity drizzle,51.01,48,100
+24073,Roanoke,Drizzle,light intensity drizzle,50,46,100
+24073,Roanoke,Drizzle,light intensity drizzle,50,46,100
+24141,Roanoke,Mist,mist,50,46,100
+24141,Roanoke,Mist,mist,50,46,100
+24401,Harrisonburg,Clouds,overcast clouds,46,43,100
+24401,Harrisonburg,Clouds,overcast clouds,46,43,100
+24416,Lynchburg,Clouds,overcast clouds,48,45,99
+24416,Lynchburg,Clouds,overcast clouds,48,45,99
+24435,Lynchburg,Clouds,overcast clouds,48,44.01,98
+24435,Lynchburg,Clouds,overcast clouds,48,44.01,98
+24450,Lynchburg,Clouds,overcast clouds,48,45,99
+24450,Lynchburg,Clouds,overcast clouds,48,45,99
+24450,Lynchburg,Clouds,overcast clouds,48,45,99
+24471,Harrisonburg,Mist,mist,46,44.6,100
+24471,Harrisonburg,Mist,mist,46,44.6,100
+24486,Harrisonburg,Mist,mist,46,44.01,100
+24486,Harrisonburg,Mist,mist,46,44.01,100
+25401,Hagerstown,Mist,mist,45,44.01,100
+25621,Charleston,Clouds,few clouds,59,51.8,100
+25621,Charleston,Clouds,few clouds,59,51.8,100
+28205,Charlotte,Clouds,overcast clouds,54,52,93
+28212,Charlotte,Clouds,overcast clouds,54,52,93
+28701,Asheville,Clouds,overcast clouds,60.01,55,92
+29933,Savannah,Clouds,overcast clouds,70,69.8,94
+30035,Atlanta,Clouds,overcast clouds,66.99,66,93
+30314,Atlanta,Clouds,overcast clouds,68,64.99,100
+31699,Valdosta,Clouds,overcast clouds,68,66.2,94
+32694,Gainesville,Clouds,broken clouds,71.6,69.8,100
+33142,Miami,Clouds,overcast clouds,78.8,78.01,88
+33142,Miami,Clouds,overcast clouds,78.8,78.01,88
+35208,Birmingham,Clouds,overcast clouds,68,64.99,88
+35218,Birmingham,Clouds,overcast clouds,68,64.99,88
+36360,Dothan,Clouds,scattered clouds,68,68,94
+37601,Johnson City,Clouds,overcast clouds,62.6,55.99,82
+38118,Memphis,Clouds,overcast clouds,53.6,52,87
+38118,Memphis,Clouds,overcast clouds,53.6,52,87
+39086,Jackson,Clouds,overcast clouds,60.01,59,100
+39086,Jackson,Clouds,overcast clouds,60.01,59,100
+39759,Tupelo,Clouds,overcast clouds,60.8,57.2,93
+40944,Morristown,Clouds,overcast clouds,60.8,55.99,87
+41542,Kingsport,Fog,fog,59,51.8,100
+42303,Evansville,Clouds,overcast clouds,50,50,100
+43224,Columbus,Clouds,overcast clouds,48.99,46.99,81
+43224,Columbus,Clouds,overcast clouds,48.99,46.99,81
+44883,Sandusky,Clouds,overcast clouds,48.99,44.01,84
+46402,Chicago,Clouds,overcast clouds,46.99,44.01,61
+46409,Chicago,Clouds,overcast clouds,46.99,44.01,61
+47909,Indianapolis,Clouds,overcast clouds,46.4,44.01,87
+48126,Detroit,Clouds,overcast clouds,46,44.01,70
+48201,Detroit,Clouds,overcast clouds,46,44.01,70
+48201,Detroit,Clouds,overcast clouds,46,44.01,70
+48202,Detroit,Clouds,overcast clouds,46,43,70
+48203,Detroit,Clouds,overcast clouds,46,43,70
+48204,Detroit,Clouds,overcast clouds,46,44.01,70
+48205,Warren,Clouds,overcast clouds,46,43,70
+48206,Detroit,Clouds,overcast clouds,46,43,70
+48207,Detroit,Clouds,overcast clouds,46,44.01,70
+48208,Detroit,Clouds,overcast clouds,46,44.01,70
+48209,Windsor,Clouds,overcast clouds,46,44.6,81
+48210,Detroit,Clouds,overcast clouds,46,44.01,70
+48211,Detroit,Clouds,overcast clouds,46,43,70
+48212,Detroit,Clouds,overcast clouds,46,43,70
+48213,Warren,Clouds,overcast clouds,46,43,70
+48214,Detroit,Clouds,overcast clouds,46,44.01,70
+48215,Detroit,Clouds,overcast clouds,46,43,70
+48216,Detroit,Clouds,overcast clouds,46,44.01,70
+48223,Detroit,Clouds,overcast clouds,46,43,70
+48224,Warren,Clouds,overcast clouds,46,43,70
+48226,Detroit,Clouds,overcast clouds,46,44.01,70
+48226,Detroit,Clouds,overcast clouds,46,44.01,70
+48227,Detroit,Clouds,overcast clouds,46,43,70
+48228,Detroit,Clouds,overcast clouds,46,43,70
+48234,Detroit,Clouds,overcast clouds,46,43,70
+48235,Warren,Clouds,overcast clouds,44.6,43,70
+48238,Detroit,Clouds,overcast clouds,46,43,70
+48880,Lansing,Clouds,overcast clouds,42.8,39,70
+51501,Omaha,Clouds,overcast clouds,26.6,23,92
+51503,Omaha,Clouds,overcast clouds,26.6,23,92
+52241,Iowa City,Clouds,overcast clouds,33.8,30.99,80
+53206,Milwaukee,Clouds,overcast clouds,35.6,32,87
+53206,Milwaukee,Clouds,overcast clouds,35.6,32,87
+54130,Appleton,Clouds,overcast clouds,30.99,30,91
+55411,Minneapolis,Clouds,overcast clouds,28.4,25,74
+55411,Minneapolis,Clouds,overcast clouds,28.4,25,74
+56007,Rochester,Clouds,overcast clouds,24.8,21.99,92
+57201,Watertown,Clouds,scattered clouds,19.4,19.4,79
+57756,Box Elder,Clouds,overcast clouds,10.4,10.4,72
+57770,Rapid City,Clouds,overcast clouds,10.4,8.6,72
+58104,Fargo,Clouds,overcast clouds,24.8,23,79
+58538,Bismarck,Clear,clear sky,3.69,3.69,92
+58538,Bismarck,Clear,clear sky,3.69,3.69,92
+59635,Helena,Clear,clear sky,1.4,-2,77
+60624,Chicago,Clouds,overcast clouds,42.8,39.2,81
+60636,Chicago,Clouds,overcast clouds,43,41,81
+61443,Davenport,Clouds,overcast clouds,36,35.01,86
+63115,St. Louis,Clouds,overcast clouds,48.2,44.01,75
+63120,St. Louis,Clouds,overcast clouds,48.2,44.01,75
+65301,Sedalia,Clouds,overcast clouds,39.2,37.99,80
+66115,Kansas City,Clouds,overcast clouds,35.6,34,87
+66115,Kansas City,Clouds,overcast clouds,35.6,34,87
+67401,Hutchinson,Clouds,overcast clouds,30.2,28.99,68
+68110,Omaha,Clouds,overcast clouds,26.6,21.99,92
+68111,Omaha,Clouds,overcast clouds,26.01,21.99,92
+68803,Grand Island,Rain,light rain,21.2,19,73
+70117,New Orleans,Clear,clear sky,70,64.4,100
+70117,New Orleans,Clear,clear sky,70,64.4,100
+72202,Little Rock,Clouds,overcast clouds,52,51.01,81
+72342,Memphis,Mist,mist,53.6,50,100
+72626,Springfield,Clouds,overcast clouds,50,46,81
+73555,Lawton,Mist,mist,39.2,37.4,93
+74110,Tulsa,Clouds,overcast clouds,44.6,41,75
+74110,Tulsa,Clouds,overcast clouds,44.6,41,75
+75241,Dallas,Mist,mist,55.4,55,93
+76901,San Angelo,Clouds,overcast clouds,55.4,53.01,87
+80219,Sheridan,Mist,mist,10.99,8.01,78
+80219,Sheridan,Mist,mist,10.99,8.01,78
+81504,Grand Junction,Clouds,overcast clouds,23,23,57
+82801,Sheridan,Clear,clear sky,1,-5.8,76
+83414,Jackson,Clear,clear sky,3.2,-0.4,84
+83536,Lewiston,Clear,clear sky,15.01,14,92
+83536,Lewiston,Clear,clear sky,15.01,14,92
+83716,Boise,Clear,clear sky,30,26.01,42
+84104,Salt Lake City,Clouds,overcast clouds,23,17.01,57
+84180,Salt Lake City,Clouds,overcast clouds,23,17.01,57
+84721,St. George,Clouds,overcast clouds,26.6,26.6,53
+85009,Phoenix,Clear,clear sky,73.99,72,40
+85017,Glendale,Clear,clear sky,73,70,43
+86403,Lake Havasu City,Clouds,overcast clouds,73.4,73.4,12
+87121,Albuquerque,Clouds,overcast clouds,55.4,48.2,45
+87121,Albuquerque,Clouds,overcast clouds,55.4,48.2,45
+88310,El Paso,Clear,clear sky,70,68,19
+89101,Las Vegas,Clouds,broken clouds,59,53.01,6
+89101,Las Vegas,Clouds,broken clouds,59,53.01,6
+89406,Reno,Clear,clear sky,30.2,28.99,33
+90210,Beverly Hills,Clear,clear sky,63,59,63
+91605,Burbank,Clear,clear sky,60.8,52,63
+93401,San Luis Obispo,Clouds,overcast clouds,57.2,55,82
+96703,Mililani,Clouds,scattered clouds,80.6,73,74
+96704,Kailua-Kona,Rain,light rain,79,57.99,86
+96781,Hilo,Clouds,overcast clouds,78.8,54,78
+97236,Portland,Clear,clear sky,39.99,34,35
+97266,Portland,Clear,clear sky,39.99,34,35
+97850,Walla Walla,Clear,clear sky,23,21,79
+98108,Seattle,Clear,clear sky,39.99,33.01,64
+98118,Seattle,Clear,clear sky,39.99,32,64
+98368,Everett,Clouds,broken clouds,37.99,32,76
+99504,Anchorage,Rain,moderate rain,37,33.01,92
+99504,Anchorage,Rain,moderate rain,37,33.01,92
