@@ -1,0 +1,328 @@
+State,Zip_Code,City,Average_Auto_Insurance_Rate,City_y,Weather_Forecast,Weather_Description,Max_Temperature,Min_Temperature,Humidity
+Massachusetts,2119,Roxbury,"$2,943 ",NaN,NaN,NaN,NaN,NaN,NaN
+Massachusetts,2119,Roxbury,"$2,943 ",NaN,NaN,NaN,NaN,NaN,NaN
+Massachusetts,2119,Boston,"$5,333.79 ",NaN,NaN,NaN,NaN,NaN,NaN
+Massachusetts,2119,Boston,"$5,333.79 ",NaN,NaN,NaN,NaN,NaN,NaN
+Massachusetts,2554,Nantucket,"$2,378.90 ",NaN,NaN,NaN,NaN,NaN,NaN
+Rhode Island,2842,Middletown,"$3,908.01 ",NaN,NaN,NaN,NaN,NaN,NaN
+Rhode Island,2907,Providence,"$7,262.39 ",NaN,NaN,NaN,NaN,NaN,NaN
+Rhode Island,2909,Providence,"$2,875 ",NaN,NaN,NaN,NaN,NaN,NaN
+New Hampshire,3104,Manchester,"$1,294 ",NaN,NaN,NaN,NaN,NaN,NaN
+New Hampshire,3104,Manchester,"$1,294 ",NaN,NaN,NaN,NaN,NaN,NaN
+New Hampshire,3104,Manchester,"$3,845.88 ",NaN,NaN,NaN,NaN,NaN,NaN
+New Hampshire,3104,Manchester,"$3,845.88 ",NaN,NaN,NaN,NaN,NaN,NaN
+New Hampshire,3431,Keene,"$2,887.77 ",NaN,NaN,NaN,NaN,NaN,NaN
+Maine,4684,Surry,"$2,785.77 ",NaN,NaN,NaN,NaN,NaN,NaN
+Maine,4686,Wesley,"$1,186 ",NaN,NaN,NaN,NaN,NaN,NaN
+Maine,4742,Fort Fairfield,"$2,403.90 ",NaN,NaN,NaN,NaN,NaN,NaN
+Vermont,5060,Randolph,"$1,452 ",NaN,NaN,NaN,NaN,NaN,NaN
+Vermont,5079,Vershire,"$3,314.44 ",NaN,NaN,NaN,NaN,NaN,NaN
+Vermont,5446,Colchester,"$3,098.67 ",NaN,NaN,NaN,NaN,NaN,NaN
+Connecticut,6101,Hartford,"$2,667 ",NaN,NaN,NaN,NaN,NaN,NaN
+Connecticut,6103,Hartford,"$6,373.96 ",NaN,NaN,NaN,NaN,NaN,NaN
+Connecticut,6340,Groton,"$3,896.10 ",NaN,NaN,NaN,NaN,NaN,NaN
+Connecticut,6340,Groton,"$3,896.10 ",NaN,NaN,NaN,NaN,NaN,NaN
+Delaware,6340,Groton,"$3,896.10 ",NaN,NaN,NaN,NaN,NaN,NaN
+Delaware,6340,Groton,"$3,896.10 ",NaN,NaN,NaN,NaN,NaN,NaN
+New Jersey,7102,Newark,"$8,512.59 ",NaN,NaN,NaN,NaN,NaN,NaN
+New Jersey,7111,Irvington,"$3,043 ",NaN,NaN,NaN,NaN,NaN,NaN
+New Jersey,7926,Brookside,"$4,592.17 ",NaN,NaN,NaN,NaN,NaN,NaN
+New York,11212,New York,"$5,703 ",New York,Clouds,overcast clouds,12,10,58
+New York,11212,New York,"$5,703 ",New York,Clouds,overcast clouds,12,10,58
+New York,11212,Brooklyn,"$10,751.24 ",New York,Clouds,overcast clouds,12,10,58
+New York,11212,Brooklyn,"$10,751.24 ",New York,Clouds,overcast clouds,12,10,58
+New York,14830,Corning,"$2,729.59 ",Binghamton,Clouds,overcast clouds,9,5,57
+Pennsylvania,16823,Bellefonte,"$3,116.01 ",Altoona,Rain,shower rain,8.33,7.22,61
+Pennsylvania,19133,Philadelphia,"$8,527.54 ",Philadelphia,Clouds,overcast clouds,11,7.78,62
+Pennsylvania,19140,Philadelphia,"$3,710 ",Philadelphia,Rain,light rain,9.44,6.67,81
+Delaware,19736,Yorklyn,"$2,646 ",Wilmington,Clouds,overcast clouds,10,6.67,66
+Delaware,19930,Bethany Beach,"$4,953.79 ",Salisbury,Rain,moderate rain,13.33,11.67,94
+District Of Columbia,20001,Washington,"$4,383.61 ",Washington D.C.,Clouds,overcast clouds,9,7.22,87
+District Of Columbia,20002,Washington,"$4,440.79 ",Washington D.C.,Clouds,overcast clouds,9,7.22,87
+DC,20016,Washington,"$2,188 ",Bethesda,Clouds,overcast clouds,9,7.22,87
+Maryland,21216,Baltimore,"$3,443 ",Baltimore,Drizzle,light intensity drizzle,8.33,7.22,100
+Maryland,21216,Baltimore,"$3,443 ",Baltimore,Drizzle,light intensity drizzle,8.33,7.22,100
+Maryland,21216,Baltimore,"$8,830.19 ",Baltimore,Drizzle,light intensity drizzle,8.33,7.22,100
+Maryland,21216,Baltimore,"$8,830.19 ",Baltimore,Drizzle,light intensity drizzle,8.33,7.22,100
+Maryland,21783,Smithsburg,"$3,658.86 ",Hagerstown,Clouds,overcast clouds,7.22,6.11,93
+Virginia,22312,Alexandria,"$1,425 ",Alexandria,Clouds,overcast clouds,9,7.22,87
+Virginia,22312,Alexandria,"$1,425 ",Alexandria,Clouds,overcast clouds,9,7.22,87
+Virginia,22312,Alexandria,"$2,871.02 ",Alexandria,Clouds,overcast clouds,9,7.22,87
+Virginia,22312,Alexandria,"$2,871.02 ",Alexandria,Clouds,overcast clouds,9,7.22,87
+,22801,Harrisonburg,"$2,044.17 ",Harrisonburg,Clouds,overcast clouds,7.78,6.11,100
+,22801,Harrisonburg,"$2,044.17 ",Harrisonburg,Clouds,overcast clouds,7.78,6.11,100
+,22801,Harrisonburg,"$2,044.17 ",Harrisonburg,Clouds,overcast clouds,7.78,6.11,100
+,22801,Harrisonburg,"$2,044.17 ",Harrisonburg,Clouds,overcast clouds,7.78,6.11,100
+,22802,Harrisonburg,"$2,031.22 ",Harrisonburg,Clouds,overcast clouds,7.78,6.11,87
+,22802,Harrisonburg,"$2,031.22 ",Harrisonburg,Clouds,overcast clouds,7.78,6.11,87
+,22802,Harrisonburg,"$2,031.22 ",Harrisonburg,Clouds,overcast clouds,7.78,6.11,87
+,22802,Harrisonburg,"$2,031.22 ",Harrisonburg,Clouds,overcast clouds,7.78,6.11,87
+,22803,Harrisonburg,"$2,050.19 ",Harrisonburg,Clouds,overcast clouds,7.78,6.11,100
+,22803,Harrisonburg,"$2,050.19 ",Harrisonburg,Clouds,overcast clouds,7.78,6.11,100
+,22803,Harrisonburg,"$2,050.19 ",Harrisonburg,Clouds,overcast clouds,7.78,6.11,100
+,22803,Harrisonburg,"$2,050.19 ",Harrisonburg,Clouds,overcast clouds,7.78,6.11,100
+,22811,Bergton,"$2,050.97 ",Harrisonburg,Clouds,overcast clouds,6.11,5,98
+,22811,Bergton,"$2,050.97 ",Harrisonburg,Clouds,overcast clouds,6.11,5,98
+,22811,Bergton,"$2,050.97 ",Harrisonburg,Clouds,overcast clouds,6.11,5,98
+,22811,Bergton,"$2,050.97 ",Harrisonburg,Clouds,overcast clouds,6.11,5,98
+,22812,Bridgewater,"$2,043.31 ",Harrisonburg,Clouds,overcast clouds,7.78,7,100
+,22812,Bridgewater,"$2,043.31 ",Harrisonburg,Clouds,overcast clouds,7.78,7,100
+,22812,Bridgewater,"$2,043.31 ",Harrisonburg,Clouds,overcast clouds,7.78,7,100
+,22812,Bridgewater,"$2,043.31 ",Harrisonburg,Clouds,overcast clouds,7.78,7,100
+,22815,Broadway,"$2,034.01 ",Harrisonburg,Clouds,overcast clouds,6.67,6.11,90
+,22815,Broadway,"$2,034.01 ",Harrisonburg,Clouds,overcast clouds,6.67,6.11,90
+,22815,Broadway,"$2,034.01 ",Harrisonburg,Clouds,overcast clouds,6.67,6.11,90
+,22815,Broadway,"$2,034.01 ",Harrisonburg,Clouds,overcast clouds,6.67,6.11,90
+,22821,Dayton,"$2,046.69 ",Harrisonburg,Clouds,overcast clouds,7.78,7,100
+,22821,Dayton,"$2,046.69 ",Harrisonburg,Clouds,overcast clouds,7.78,7,100
+,22821,Dayton,"$2,046.69 ",Harrisonburg,Clouds,overcast clouds,7.78,7,100
+,22821,Dayton,"$2,046.69 ",Harrisonburg,Clouds,overcast clouds,7.78,7,100
+,22824,Edinburg,"$2,056.80 ",Harrisonburg,Clouds,overcast clouds,7.22,5,94
+,22824,Edinburg,"$2,056.80 ",Harrisonburg,Clouds,overcast clouds,7.22,5,94
+,22824,Edinburg,"$2,056.80 ",Harrisonburg,Clouds,overcast clouds,7.22,5,94
+,22824,Edinburg,"$2,056.80 ",Harrisonburg,Clouds,overcast clouds,7.22,5,94
+,22830,Fulks Run,"$2,048.95 ",Harrisonburg,Clouds,overcast clouds,6.67,5,90
+,22830,Fulks Run,"$2,048.95 ",Harrisonburg,Clouds,overcast clouds,6.67,5,90
+,22830,Fulks Run,"$2,048.95 ",Harrisonburg,Clouds,overcast clouds,6.67,5,90
+,22830,Fulks Run,"$2,048.95 ",Harrisonburg,Clouds,overcast clouds,6.67,5,90
+,22833,Lacey Spring,"$2,041.03 ",Harrisonburg,Clouds,overcast clouds,7.78,6.11,87
+,22833,Lacey Spring,"$2,041.03 ",Harrisonburg,Clouds,overcast clouds,7.78,6.11,87
+,22833,Lacey Spring,"$2,041.03 ",Harrisonburg,Clouds,overcast clouds,7.78,6.11,87
+,22833,Lacey Spring,"$2,041.03 ",Harrisonburg,Clouds,overcast clouds,7.78,6.11,87
+,22834,Linville,"$2,037.09 ",Harrisonburg,Clouds,overcast clouds,7.78,6.11,90
+,22834,Linville,"$2,037.09 ",Harrisonburg,Clouds,overcast clouds,7.78,6.11,90
+,22834,Linville,"$2,037.09 ",Harrisonburg,Clouds,overcast clouds,7.78,6.11,90
+,22834,Linville,"$2,037.09 ",Harrisonburg,Clouds,overcast clouds,7.78,6.11,90
+,22840,Mc Gaheysville,"$2,036.30 ",Harrisonburg,Mist,mist,7.78,6.67,100
+,22840,Mc Gaheysville,"$2,036.30 ",Harrisonburg,Mist,mist,7.78,6.67,100
+,22840,Mc Gaheysville,"$2,036.30 ",Harrisonburg,Mist,mist,7.78,6.67,100
+,22840,Mc Gaheysville,"$2,036.30 ",Harrisonburg,Mist,mist,7.78,6.67,100
+,22841,Mount Crawford,"$2,048.17 ",Harrisonburg,Clouds,overcast clouds,7.78,7,100
+,22841,Mount Crawford,"$2,048.17 ",Harrisonburg,Clouds,overcast clouds,7.78,7,100
+,22841,Mount Crawford,"$2,048.17 ",Harrisonburg,Clouds,overcast clouds,7.78,7,100
+,22841,Mount Crawford,"$2,048.17 ",Harrisonburg,Clouds,overcast clouds,7.78,7,100
+,22848,Pleasant Valley,"$2,049.22 ",Harrisonburg,Clouds,overcast clouds,7.78,7,100
+,22848,Pleasant Valley,"$2,049.22 ",Harrisonburg,Clouds,overcast clouds,7.78,7,100
+,22848,Pleasant Valley,"$2,049.22 ",Harrisonburg,Clouds,overcast clouds,7.78,7,100
+,22848,Pleasant Valley,"$2,049.22 ",Harrisonburg,Clouds,overcast clouds,7.78,7,100
+,22853,Timberville,"$2,038.95 ",Harrisonburg,Clouds,overcast clouds,6.67,6.11,90
+,22853,Timberville,"$2,038.95 ",Harrisonburg,Clouds,overcast clouds,6.67,6.11,90
+,22853,Timberville,"$2,038.95 ",Harrisonburg,Clouds,overcast clouds,6.67,6.11,90
+,22853,Timberville,"$2,038.95 ",Harrisonburg,Clouds,overcast clouds,6.67,6.11,90
+,22939,Fishersville,"$2,044.69 ",Harrisonburg,Clouds,overcast clouds,8.33,6.11,100
+,22939,Fishersville,"$2,044.69 ",Harrisonburg,Clouds,overcast clouds,8.33,6.11,100
+,22939,Fishersville,"$2,044.69 ",Harrisonburg,Clouds,overcast clouds,8.33,6.11,100
+,22939,Fishersville,"$2,044.69 ",Harrisonburg,Clouds,overcast clouds,8.33,6.11,100
+,24060,Blacksburg,"$2,035.11 ",Roanoke,Clouds,overcast clouds,12.22,10,100
+,24060,Blacksburg,"$2,035.11 ",Roanoke,Clouds,overcast clouds,12.22,10,100
+,24060,Blacksburg,"$2,035.11 ",Roanoke,Clouds,overcast clouds,12.22,10,100
+,24060,Blacksburg,"$2,035.11 ",Roanoke,Clouds,overcast clouds,12.22,10,100
+,24073,Christiansburg,"$2,042.79 ",Roanoke,Clouds,overcast clouds,11.11,7.78,100
+,24073,Christiansburg,"$2,042.79 ",Roanoke,Clouds,overcast clouds,11.11,7.78,100
+,24073,Christiansburg,"$2,042.79 ",Roanoke,Clouds,overcast clouds,11.11,7.78,100
+,24073,Christiansburg,"$2,042.79 ",Roanoke,Clouds,overcast clouds,11.11,7.78,100
+,24141,Radford,"$2,050.57 ",Roanoke,Mist,mist,11.11,10,100
+,24141,Radford,"$2,050.57 ",Roanoke,Mist,mist,11.11,10,100
+,24141,Radford,"$2,050.57 ",Roanoke,Mist,mist,11.11,10,100
+,24141,Radford,"$2,050.57 ",Roanoke,Mist,mist,11.11,10,100
+,24401,Staunton,"$2,033.51 ",Harrisonburg,Clouds,overcast clouds,8.33,6.11,100
+,24401,Staunton,"$2,033.51 ",Harrisonburg,Clouds,overcast clouds,8.33,6.11,100
+,24401,Staunton,"$2,033.51 ",Harrisonburg,Clouds,overcast clouds,8.33,6.11,100
+,24401,Staunton,"$2,033.51 ",Harrisonburg,Clouds,overcast clouds,8.33,6.11,100
+,24416,Buena Vista,"$2,039.40 ",Lynchburg,Clouds,overcast clouds,9.44,7.22,94
+,24416,Buena Vista,"$2,039.40 ",Lynchburg,Clouds,overcast clouds,9.44,7.22,94
+,24416,Buena Vista,"$2,039.40 ",Lynchburg,Clouds,overcast clouds,9.44,7.22,94
+,24416,Buena Vista,"$2,039.40 ",Lynchburg,Clouds,overcast clouds,9.44,7.22,94
+,24435,Fairfield,"$2,053.78 ",Lynchburg,Clouds,overcast clouds,9.44,6.11,98
+,24435,Fairfield,"$2,053.78 ",Lynchburg,Clouds,overcast clouds,9.44,6.11,98
+,24435,Fairfield,"$2,053.78 ",Lynchburg,Clouds,overcast clouds,9.44,6.11,98
+,24435,Fairfield,"$2,053.78 ",Lynchburg,Clouds,overcast clouds,9.44,6.11,98
+,24450,Lexington,"$2,018.13 ",Lynchburg,Clouds,overcast clouds,9.44,7.22,94
+,24450,Lexington,"$2,018.13 ",Lynchburg,Clouds,overcast clouds,9.44,7.22,94
+,24450,Lexington,"$2,018.13 ",Lynchburg,Clouds,overcast clouds,9.44,7.22,94
+,24450,Lexington,"$2,018.13 ",Lynchburg,Clouds,overcast clouds,9.44,7.22,94
+,24450,Lexington,"$2,018.13 ",Lynchburg,Clouds,overcast clouds,9.44,7.22,94
+,24450,Lexington,"$2,018.13 ",Lynchburg,Clouds,overcast clouds,9.44,7.22,94
+Virginia,24450,Lexington,"$2,018.13 ",Lynchburg,Clouds,overcast clouds,9.44,7.22,94
+Virginia,24450,Lexington,"$2,018.13 ",Lynchburg,Clouds,overcast clouds,9.44,7.22,94
+Virginia,24450,Lexington,"$2,018.13 ",Lynchburg,Clouds,overcast clouds,9.44,7.22,94
+,24471,Port Republic,"$2,046.56 ",Harrisonburg,Mist,mist,7.78,7,100
+,24471,Port Republic,"$2,046.56 ",Harrisonburg,Mist,mist,7.78,7,100
+,24471,Port Republic,"$2,046.56 ",Harrisonburg,Mist,mist,7.78,7,100
+,24471,Port Republic,"$2,046.56 ",Harrisonburg,Mist,mist,7.78,7,100
+,24486,Weyers Cave,"$2,055.76 ",Harrisonburg,Mist,mist,7.78,7,100
+,24486,Weyers Cave,"$2,055.76 ",Harrisonburg,Mist,mist,7.78,7,100
+,24486,Weyers Cave,"$2,055.76 ",Harrisonburg,Mist,mist,7.78,7,100
+,24486,Weyers Cave,"$2,055.76 ",Harrisonburg,Mist,mist,7.78,7,100
+West Virginia,25401,Martinsburg,"$3,519.10 ",Hagerstown,Mist,mist,7.22,6.67,93
+West Virginia,25621,Gilbert,"$2,119 ",Charleston,Clouds,broken clouds,20,14,93
+West Virginia,25621,Gilbert,"$2,119 ",Charleston,Clouds,broken clouds,20,14,93
+West Virginia,25621,Gilbert,"$5,111.14 ",Charleston,Clouds,broken clouds,20,14,93
+West Virginia,25621,Gilbert,"$5,111.14 ",Charleston,Clouds,broken clouds,20,14,93
+North Carolina,28205,Charlotte,"$4,803.84 ",Charlotte,Mist,mist,15,13.33,93
+North Carolina,28212,Charlotte,"$1,867 ",Charlotte,Mist,mist,15,13.33,93
+North Carolina,28701,Alexander,"$2,860.59 ",Asheville,Clouds,overcast clouds,18.33,15,85
+South Carolina,29933,Miley,"$2,056 ",Savannah,Clouds,broken clouds,25,23.89,88
+Georgia,30035,Decatur,"$2,777 ",Atlanta,Clouds,broken clouds,22.22,21.11,84
+Georgia,30314,Atlanta,"$6,991.02 ",Atlanta,Clouds,overcast clouds,23.33,20.56,73
+Georgia,31699,Moody AFB,"$3,976.82 ",Valdosta,Clear,clear sky,27,23.33,65
+Florida,32694,Waldo,"$3,481.35 ",Gainesville,Clouds,broken clouds,28,27,69
+Florida,33142,Brownsville,"$3,342 ",Miami,Clouds,overcast clouds,28,26.11,83
+Florida,33142,Brownsville,"$3,342 ",Miami,Clouds,overcast clouds,28,26.11,83
+Florida,33142,Miami,"$7,631.16 ",Miami,Clouds,overcast clouds,28,26.11,83
+Florida,33142,Miami,"$7,631.16 ",Miami,Clouds,overcast clouds,28,26.11,83
+Alabama,35208,Birmingham,"$1,991 ",Birmingham,Clouds,overcast clouds,22,20.56,73
+Alabama,35218,Birmingham,"$4,428.60 ",Birmingham,Clouds,overcast clouds,22,20.56,73
+Alabama,36360,Ozark,"$3,310.05 ",Dothan,Clouds,overcast clouds,25,24,78
+Tennessee,37601,Johnson City,"$3,173.65 ",Johnson City,Clouds,few clouds,23,18.33,64
+Tennessee,38118,Memphis,"$2,120 ",Memphis,Drizzle,light intensity drizzle,13,11.67,87
+Tennessee,38118,Memphis,"$2,120 ",Memphis,Drizzle,light intensity drizzle,13,11.67,87
+Tennessee,38118,Memphis,"$4,991.62 ",Memphis,Drizzle,light intensity drizzle,13,11.67,87
+Tennessee,38118,Memphis,"$4,991.62 ",Memphis,Drizzle,light intensity drizzle,13,11.67,87
+Mississippi,39086,Hermanville,"$2,036 ",Jackson,Clouds,overcast clouds,17.22,16,87
+Mississippi,39086,Hermanville,"$2,036 ",Jackson,Clouds,overcast clouds,17.22,16,87
+Mississippi,39086,Hermanville,"$4,323.64 ",Jackson,Clouds,overcast clouds,17.22,16,87
+Mississippi,39086,Hermanville,"$4,323.64 ",Jackson,Clouds,overcast clouds,17.22,16,87
+Mississippi,39759,Starkville,"$3,077.33 ",Tupelo,Clouds,overcast clouds,18,16,87
+Kentucky,40944,Goose Rock,"$3,435 ",Morristown,Clouds,overcast clouds,22,18,77
+Kentucky,41542,Lookout,"$7,400.56 ",Kingsport,Clouds,overcast clouds,20,12,100
+Kentucky,42303,Owensboro,"$3,562.72 ",Evansville,Mist,mist,11,10,100
+Ohio,43224,Columbus,"$1,524 ",Columbus,Clouds,overcast clouds,10.56,9.44,61
+Ohio,43224,Columbus,"$1,524 ",Columbus,Clouds,overcast clouds,10.56,9.44,61
+Ohio,43224,Columbus,"$3,667.48 ",Columbus,Clouds,overcast clouds,10.56,9.44,61
+Ohio,43224,Columbus,"$3,667.48 ",Columbus,Clouds,overcast clouds,10.56,9.44,61
+Ohio,44883,Tiffin,"$2,325.38 ",Sandusky,Clouds,overcast clouds,10,8.33,66
+Indiana,46402,Gary,"$4,747.17 ",Chicago,Clouds,overcast clouds,8.33,7.78,61
+Indiana,46409,Gary,"$1,695 ",Chicago,Clouds,overcast clouds,8.33,7.78,61
+Indiana,47909,Lafayette,"$2,931.86 ",Indianapolis,Clouds,overcast clouds,10,9.44,61
+,48126,Dearborn,"$26,665.38 ",Detroit,Clouds,overcast clouds,8.33,7.78,61
+,48201,Detroit,"$30,350.09 ",Detroit,Clouds,overcast clouds,8.33,7.78,61
+,48201,Detroit,"$30,350.09 ",Detroit,Clouds,overcast clouds,8.33,7.78,61
+Michigan,48201,Detroit,"$30,350.09 ",Detroit,Clouds,overcast clouds,8.33,7.78,61
+Michigan,48201,Detroit,"$30,350.09 ",Detroit,Clouds,overcast clouds,8.33,7.78,61
+,48202,Detroit,"$28,946.15 ",Detroit,Clouds,overcast clouds,8.33,7.22,61
+,48203,Highland Park,"$26,923.65 ",Detroit,Clouds,overcast clouds,8.33,7.22,61
+,48204,Detroit,"$29,281.79 ",Detroit,Clouds,overcast clouds,8.33,7.78,61
+,48205,Detroit,"$27,952.29 ",Warren,Clouds,overcast clouds,8.33,7.22,61
+,48206,Detroit,"$29,791.56 ",Detroit,Clouds,overcast clouds,9,7.22,61
+,48207,Detroit,"$27,424.94 ",Detroit,Clouds,overcast clouds,8.33,7.78,61
+,48208,Detroit,"$27,867.09 ",Detroit,Clouds,overcast clouds,8.33,7.78,61
+,48209,Detroit,"$26,710.79 ",Windsor,Clouds,overcast clouds,8.33,7.78,65
+,48210,Detroit,"$28,417.19 ",Detroit,Clouds,overcast clouds,8.33,7.78,61
+,48211,Detroit,"$28,033.06 ",Detroit,Clouds,overcast clouds,8.33,7.22,61
+,48212,Hamtramck,"$26,925.66 ",Detroit,Clouds,overcast clouds,8.33,7.22,61
+,48213,Detroit,"$28,556.49 ",Warren,Clouds,overcast clouds,8.33,7.22,61
+,48214,Detroit,"$26,730.26 ",Detroit,Clouds,overcast clouds,8.33,7.78,61
+,48215,Detroit,"$28,186.14 ",Detroit,Clouds,overcast clouds,8.33,7.22,61
+,48216,Detroit,"$28,040.22 ",Detroit,Clouds,overcast clouds,8.33,7.78,61
+,48223,Detroit,"$26,031.27 ",Detroit,Clouds,overcast clouds,9,6.67,61
+,48224,Detroit,"$26,758.51 ",Warren,Clouds,overcast clouds,8.33,7.22,61
+Michigan,48226,Detroit,"$6,329 ",Detroit,Clouds,overcast clouds,8.33,7.78,61
+Michigan,48226,Detroit,"$6,329 ",Detroit,Clouds,overcast clouds,8.33,7.78,61
+,48226,Detroit,"$27,767.58 ",Detroit,Clouds,overcast clouds,8.33,7.78,61
+,48226,Detroit,"$27,767.58 ",Detroit,Clouds,overcast clouds,8.33,7.78,61
+,48227,Detroit,"$29,374.46 ",Detroit,Clouds,overcast clouds,9,6.67,61
+,48228,Detroit,"$28,073.12 ",Detroit,Clouds,overcast clouds,9,6.67,61
+,48234,Detroit,"$26,566.42 ",Detroit,Clouds,overcast clouds,8.33,7.22,61
+,48235,Detroit,"$26,516.65 ",Warren,Clouds,overcast clouds,9,6.67,49
+,48238,Detroit,"$28,148.98 ",Detroit,Clouds,overcast clouds,8.33,7.22,61
+Michigan,48880,Saint Louis,"$7,916.29 ",Lansing,Clouds,overcast clouds,8,6.67,63
+Iowa,51501,Council Bluffs,"$3,633.75 ",Omaha,Mist,mist,-0.56,-2.22,86
+Iowa,51503,Council Bluffs,"$1,635 ",Omaha,Mist,mist,-1,-2.22,86
+Iowa,52241,Coralville,"$2,598.27 ",Iowa City,Clouds,overcast clouds,3,2.22,64
+Wisconsin,53206,Milwaukee,"$2,306 ",Milwaukee,Clouds,overcast clouds,3.33,0.56,80
+Wisconsin,53206,Milwaukee,"$2,306 ",Milwaukee,Clouds,overcast clouds,3.33,0.56,80
+Wisconsin,53206,Milwaukee,"$5,102.46 ",Milwaukee,Clouds,overcast clouds,3.33,0.56,80
+Wisconsin,53206,Milwaukee,"$5,102.46 ",Milwaukee,Clouds,overcast clouds,3.33,0.56,80
+Wisconsin,54130,Kaukauna,"$2,491.30 ",Appleton,Rain,light rain,0.56,0,97
+Minnesota,55411,Minneapolis,"$2,292 ",Minneapolis,Clouds,overcast clouds,-1.67,-3.33,74
+Minnesota,55411,Minneapolis,"$2,292 ",Minneapolis,Clouds,overcast clouds,-1.67,-3.33,74
+Minnesota,55411,Minneapolis,"$6,620.56 ",Minneapolis,Clouds,overcast clouds,-1.67,-3.33,74
+Minnesota,55411,Minneapolis,"$6,620.56 ",Minneapolis,Clouds,overcast clouds,-1.67,-3.33,74
+Minnesota,56007,Albert Lea,"$3,976.80 ",Rochester,Clouds,overcast clouds,-3,-3.89,92
+South Dakota,57201,Watertown,"$3,467.81 ",Watertown,Clouds,broken clouds,-6,-6,67
+South Dakota,57756,Manderson,"$2,067 ",Box Elder,Clouds,overcast clouds,-10,-10,66
+South Dakota,57770,Pine Ridge,"$4,695.24 ",Rapid City,Clouds,overcast clouds,-10,-11,66
+North Dakota,58104,Fargo,"$3,677.18 ",Fargo,Clouds,overcast clouds,-3,-3,68
+North Dakota,58538,Fort Yates,"$1,793 ",Bismarck,Clouds,broken clouds,-9.12,-9.12,95
+North Dakota,58538,Fort Yates,"$1,793 ",Bismarck,Clouds,broken clouds,-9.12,-9.12,95
+North Dakota,58538,Fort Yates,"$4,477.64 ",Bismarck,Clouds,broken clouds,-9.12,-9.12,95
+North Dakota,58538,Fort Yates,"$4,477.64 ",Bismarck,Clouds,broken clouds,-9.12,-9.12,95
+Montanna,59089,Wyola,"$3,457.81 ",NaN,NaN,NaN,NaN,NaN,NaN
+Montanna,59635,East Helena,"$2,866.45 ",Helena,Clear,clear sky,-8.89,-11,56
+Illinois,60624,Chicago,"$2,721 ",Chicago,Clouds,overcast clouds,8,6.67,61
+Illinois,60636,Chicago,"$5,437.22 ",Chicago,Clouds,overcast clouds,8,7.22,61
+Illinois,61443,Kewanee,"$2,792.51 ",Davenport,Clouds,overcast clouds,6.11,4.44,72
+Missouri,63115,St. Louis,"$3,018 ",St. Louis,Clouds,overcast clouds,10.56,8.89,66
+Missouri,63120,Saint Louis,"$5,220.97 ",St. Louis,Clouds,overcast clouds,10.56,8.89,66
+Missouri,65301,Sedalia,"$2,938.18 ",Sedalia,Clouds,overcast clouds,6.11,5,75
+Kansas,66115,Kansas City,"$2,066 ",Kansas City,Clouds,overcast clouds,5,3.89,75
+Kansas,66115,Kansas City,"$2,066 ",Kansas City,Clouds,overcast clouds,5,3.89,75
+Kansas,66115,Kansas City,"$4,318.12 ",Kansas City,Clouds,overcast clouds,5,3.89,75
+Kansas,66115,Kansas City,"$4,318.12 ",Kansas City,Clouds,overcast clouds,5,3.89,75
+Kansas,67401,Salina,"$2,954.93 ",Hutchinson,Clouds,overcast clouds,1,1,74
+Nebraska,68110,Omaha,"$1,904 ",Omaha,Mist,mist,-0.56,-2.22,86
+Nebraska,68111,Omaha,"$4,516.91 ",Omaha,Mist,mist,-0.56,-2.22,86
+Nebraska,68803,Grand Island,"$3,133.81 ",Grand Island,Clouds,overcast clouds,-3,-4.44,73
+Louisiana,70117,New Orleans,"$4,601 ",New Orleans,Clear,clear sky,24,22.22,69
+Louisiana,70117,New Orleans,"$4,601 ",New Orleans,Clear,clear sky,24,22.22,69
+Louisiana,70117,New Orleans,"$9,303.50 ",New Orleans,Clear,clear sky,24,22.22,69
+Louisiana,70117,New Orleans,"$9,303.50 ",New Orleans,Clear,clear sky,24,22.22,69
+Louisiana,71439,Hornbeck,"$4,332.48 ",NaN,NaN,NaN,NaN,NaN,NaN
+Arkansas,72202,Little Rock,"$4,957.15 ",Little Rock,Clouds,overcast clouds,12,11.11,76
+Arkansas,72342,Helena-West Helena,"$2,066 ",Memphis,Clouds,overcast clouds,13,11,100
+Arkansas,72626,Cotter,"$3,675.93 ",Springfield,Clouds,overcast clouds,11.67,10,71
+Oklahoma,73555,Manitou,"$3,646.98 ",Lawton,Mist,mist,8,5.56,93
+Oklahoma,74110,Tulsa,"$2,146 ",Tulsa,Clouds,overcast clouds,10,8.89,66
+Oklahoma,74110,Tulsa,"$2,146 ",Tulsa,Clouds,overcast clouds,10,8.89,66
+Oklahoma,74110,Tulsa,"$5,150.50 ",Tulsa,Clouds,overcast clouds,10,8.89,66
+Oklahoma,74110,Tulsa,"$5,150.50 ",Tulsa,Clouds,overcast clouds,10,8.89,66
+Texas,75241,Dallas,"$2,447 ",Dallas,Mist,mist,16,15,87
+Texas,76901,San Angelo,"$3,157.68 ",San Angelo,Clear,clear sky,31.67,29.44,35
+Texas,78049,Laredo,"$5,538.80 ",NaN,NaN,NaN,NaN,NaN,NaN
+Colorado,80219,Denver,"$2,421 ",Sheridan,Snow,light snow,-9.44,-11.67,78
+Colorado,80219,Denver,"$2,421 ",Sheridan,Snow,light snow,-9.44,-11.67,78
+Colorado,80219,Denver,"$4,762.40 ",Sheridan,Snow,light snow,-9.44,-11.67,78
+Colorado,80219,Denver,"$4,762.40 ",Sheridan,Snow,light snow,-9.44,-11.67,78
+Colorado,81504,Grand Junction,"$3,291.13 ",Grand Junction,Snow,heavy snow,0.56,-2.78,92
+Wyoming,82725,Recluse,"$1,844 ",NaN,NaN,NaN,NaN,NaN,NaN
+Wyoming,82801,Sheridan,"$2,896.66 ",Sheridan,Clouds,few clouds,-10.56,-12,60
+Wyoming,83414,Alta,"$3,156.85 ",Jackson,Clouds,broken clouds,-6,-7,62
+Idaho,83536,Kamiah,"$1,415 ",Lewiston,Clear,clear sky,2,-3,58
+Idaho,83536,Kamiah,"$1,415 ",Lewiston,Clear,clear sky,2,-3,58
+Idaho,83536,Kamiah,"$3,008.28 ",Lewiston,Clear,clear sky,2,-3,58
+Idaho,83536,Kamiah,"$3,008.28 ",Lewiston,Clear,clear sky,2,-3,58
+Idaho,83716,Boise,"$2,612.88 ",Boise,Clear,clear sky,7.22,5,22
+Utah,84104,Salt Lake City,"$4,580.22 ",Salt Lake City,Rain,shower rain,1,-2.78,47
+Utah,84180,Salt Lake City,"$1,910 ",Salt Lake City,Rain,shower rain,1,-2.78,47
+Utah,84721,Cedar City,"$3,239.58 ",St. George,Mist,mist,1,1,86
+Arizona,85009,Phoenix,"$5,479.07 ",Phoenix,Clouds,scattered clouds,31,27.78,29
+Arizona,85017,Phoenix,"$2,595 ",Glendale,Clouds,few clouds,30.56,27.78,36
+Arizona,86403,Lake Havasu City,"$2,883.46 ",Lake Havasu City,Clear,clear sky,29,27.22,21
+New Mexico,87121,Albuquerque,"$2,030 ",Albuquerque,Clouds,broken clouds,22.78,20,18
+New Mexico,87121,Albuquerque,"$2,030 ",Albuquerque,Clouds,broken clouds,22.78,20,18
+New Mexico,87121,Albuquerque,"$4,364.29 ",Albuquerque,Clouds,broken clouds,22.78,20,18
+New Mexico,87121,Albuquerque,"$4,364.29 ",Albuquerque,Clouds,broken clouds,22.78,20,18
+New Mexico,88310,Alamogordo,"$2,948.89 ",El Paso,Clear,clear sky,27.78,17.78,15
+Nevada,89101,Las Vegas,"$3,768 ",Las Vegas,Clear,clear sky,27,23.89,14
+Nevada,89101,Las Vegas,"$3,768 ",Las Vegas,Clear,clear sky,27,23.89,14
+Nevada,89101,Las Vegas,"$7,486.53 ",Las Vegas,Clear,clear sky,27,23.89,14
+Nevada,89101,Las Vegas,"$7,486.53 ",Las Vegas,Clear,clear sky,27,23.89,14
+Nevada,89406,Fallon,"$3,411.08 ",Reno,Dust,dust,8,6.11,20
+California,90210,Beverly Hills,"$6,324.83 ",Beverly Hills,Clouds,broken clouds,20.56,17.78,59
+California,91605,North Hollywood,"$3,767 ",Burbank,Clouds,broken clouds,20,16.67,48
+California,93401,San Luis Obispo,"$2,731.32 ",San Luis Obispo,Clouds,overcast clouds,18.89,16.67,68
+Hawaii,96703,Anahola,"$2,198.62 ",Mililani,Clouds,few clouds,28.89,27.22,78
+Hawaii,96704,Captain Cook,"$2,859.11 ",Kailua-Kona,Rain,light rain,29.44,18.33,74
+Hawaii,96781,Papaikou,"$1,773 ",Hilo,Clouds,few clouds,31,17.22,48
+Oregon,97236,Portland,"$4,908.54 ",Portland,Clear,clear sky,9.44,6.11,23
+Oregon,97266,Portland,"$2,068 ",Portland,Clear,clear sky,9.44,6.11,23
+Oregon,97850,La Grande,"$2,953.60 ",Walla Walla,Clear,clear sky,2.22,1,55
+Washington,98108,Boulevard Park,"$2,149 ",Seattle,Clouds,scattered clouds,9.44,6.67,34
+Washington,98118,Seattle,"$4,079.23 ",Seattle,Clouds,scattered clouds,9.44,6.67,34
+Washington,98368,Port Townsend,"$2,461.54 ",Everett,Clouds,broken clouds,8.89,6.11,61
+Alaska,99504,Anchorage,"$1,877 ",Anchorage,Rain,light rain,2.22,0.56,80
+Alaska,99504,Anchorage,"$1,877 ",Anchorage,Rain,light rain,2.22,0.56,80
+Alaska,99504,Anchorage,"$3,132.74 ",Anchorage,Rain,light rain,2.22,0.56,80
+Alaska,99504,Anchorage,"$3,132.74 ",Anchorage,Rain,light rain,2.22,0.56,80
+Alaska,99820,Angoon,"$2,335.97 ",NaN,NaN,NaN,NaN,NaN,NaN
