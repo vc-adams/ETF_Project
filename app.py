@@ -9,6 +9,9 @@ from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
 from flask import Flask, jsonify
+import json
+
+
 
 #...if we pull from a database....
 #################################################
@@ -56,17 +59,19 @@ def zip(by_Zip = None):
         working_zip = DATA.loc[DATA["Zip_Code"] == int(by_Zip)]
         zip_dict = working_zip.to_dict(orient="records")
         return jsonify(zip_dict)
-    except Exception as error:
-        print(error)
-        return jsonify([f'WRONG'])
-        #return jsonify([])
+    except Exception as e:
+        print(e)
+        return jsonify([{'error':"Something went horribly wrong, try again"}])
+    #    
+    #  #return jsonify([])
+
+## flask exception resource: https://opensource.com/article/17/3/python-flask-exceptions
 
 ### some notes from AskBCS:
 ##  results = df.loc[df['zip'] == search_zip]
 
     # return jsonify({'error':"Something went horribly wrong, no one ever learned to drive a car in your area."})
 
-  
 
 # return the data according to city entry
 @app.route("/api/v1.0/city/<by_City>")
@@ -74,6 +79,8 @@ def city(by_City = None):
     """Return the car insurance and weather data by Zip Code"""
     
     ## Need some method in here for .lower example in justice league 
+    ## looking for something similar to this: https://docs.python.org/2/library/difflib.html
+
             # for city in test:
     #     city_result = test['by_City'].replace(" ","").lower()
 
@@ -96,12 +103,11 @@ def city(by_City = None):
 def state(by_State = None):
     """Return the car insurance and weather data by State"""
 
-    ## Need some method in here for .lower example in justice league 
-            # for state in test:
-    #     city_result = test['by_City'].replace(" ","").lower()
 
-    #     if city_result == search_city:
-    #         return jsonify(test)
+    # searched_State = by_State.replace(" ", "").lower()
+
+    # for state in DATA:
+    #     searched_state_lowered = DATA["State"].replace(" ", "").lower() 
     
     try:
         working_zip3 = DATA.loc[DATA["State"] == by_State]
@@ -118,24 +124,11 @@ def state(by_State = None):
 def all():
     """Return all the car insurance and weather data"""
 
-## Don't know how we want to display this ...
+## This displays a mess but is infact all the data! 
 
+    all_data = DATA.to_json(orient="records")
 
-
-    return(
-    DATA.head()
-    )
-
-
-    # try:
-    #     working_zip4 = DATA.loc[DATA[""] == by_State]
-    #     state_dict = working_zip3.to_dict(orient="records")
-    #     return jsonify(state_dict)
-    # except Exception as error:
-    #     print(error)
-    #     return jsonify([])
-
-    # return jsonify(DATA)
+    return jsonify(all_data)
 
 
 if __name__ == "__main__":
