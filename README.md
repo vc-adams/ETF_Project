@@ -6,7 +6,7 @@ ETL PROJECT: Group 1 <br>
 Team Members: Rob Pascarella, Vincent Adams, Emeka Obianyor  <br>
 
 Project Summary: Pairing up insurance rates with weather data that can be searchable via user input. <br>
-The idea of this project is to create a flask app to serve up to a client a bevy of data (in this case Auto insurance rates and weather data) for any zip code, city, or state that the client may requests. <br>
+The idea of this project is to create a flask app to serve up to a client a bevy of data (in this case Auto insurance rates and weather data) for any zip code, city, or state that the client may request. <br>
 We have broken this project execution down into several phases: <br>
 
 Extract: We need to extract all the data we intend to serve up to the client. In this case, Auto insurance rates – we intend to scrape insurance rates from various zip codes across the country. We will then pull weather data for same zip codes using API calls. <br>
