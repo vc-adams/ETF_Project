@@ -21,7 +21,7 @@ Index,State,Zip_Code,City,Average_Auto_Insurance_Rate
 19,Colorado,80219,Denver,2421
 20,Wisconsin,53206,Milwaukee,2306
 21,Minnesota,55411,Minneapolis,2292
-22,Dist. Of Columbia,20016,Washington,2188
+22,DC,20016,Washington,2188
 23,Washington,98108,Boulevard Park,2149
 24,Oklahoma,74110,Tulsa,2146
 25,Tennessee,38118,Memphis,2120
@@ -49,54 +49,54 @@ Index,State,Zip_Code,City,Average_Auto_Insurance_Rate
 47,Idaho,83536,Kamiah,1415
 48,New Hampshire,3104,Manchester,1294
 49,Maine,4686,Wesley,1186
-51,Michigan,48206,Detroit,29791.56
-52,Michigan,48227,Detroit,29374.46
-53,Michigan,48204,Detroit,29281.79
-54,Michigan,48202,Detroit,28946.15
-55,Michigan,48213,Detroit,28556.49
-56,Michigan,48210,Detroit,28417.19
-57,Michigan,48215,Detroit,28186.14
-58,Michigan,48238,Detroit,28148.98
-59,Michigan,48228,Detroit,28073.12
-60,Michigan,48216,Detroit,28040.22
-61,Michigan,48211,Detroit,28033.06
-62,Michigan,48205,Detroit,27952.29
-63,Michigan,48208,Detroit,27867.09
-64,Michigan,48226,Detroit,27767.58
-65,Michigan,48207,Detroit,27424.94
-66,Michigan,48212,Hamtramck,26925.66
-67,Michigan,48203,Highland Park,26923.65
-68,Michigan,48224,Detroit,26758.51
-69,Michigan,48214,Detroit,26730.26
-70,Michigan,48209,Detroit,26710.79
-71,Michigan,48126,Dearborn,26665.38
-72,Michigan,48234,Detroit,26566.42
-73,Michigan,48235,Detroit,26516.65
-74,Michigan,48223,Detroit,26031.27
-76,Virginia,22802,Harrisonburg,2031.22
-77,Virginia,24401,Staunton,2033.51
-78,Virginia,22815,Broadway,2034.01
-79,Virginia,24060,Blacksburg,2035.11
-80,Virginia,22840,Mc Gaheysville,2036.30
-81,Virginia,22834,Linville,2037.09
-82,Virginia,22853,Timberville,2038.95
-83,Virginia,24416,Buena Vista,2039.40
-84,Virginia,22833,Lacey Spring,2041.03
-85,Virginia,24073,Christiansburg,2042.79
-86,Virginia,22812,Bridgewater,2043.31
-87,Virginia,22801,Harrisonburg,2044.17
-88,Virginia,22939,Fishersville,2044.69
-89,Virginia,24471,Port Republic,2046.56
-90,Virginia,22821,Dayton,2046.69
-91,Virginia,22841,Mount Crawford,2048.17
-92,Virginia,22830,Fulks Run,2048.95
-93,Virginia,22848,Pleasant Valley,2049.22
-94,Virginia,22803,Harrisonburg,2050.19
-95,Virginia,24141,Radford,2050.57
-96,Virginia,22811,Bergton,2050.97
-97,Virginia,24435,Fairfield,2053.78
-98,Virginia,24486,Weyers Cave,2055.76
-99,Virginia,22824,Edinburg,2056.80
+51,,48206,Detroit,29791.56
+52,,48227,Detroit,29374.46
+53,,48204,Detroit,29281.79
+54,,48202,Detroit,28946.15
+55,,48213,Detroit,28556.49
+56,,48210,Detroit,28417.19
+57,,48215,Detroit,28186.14
+58,,48238,Detroit,28148.98
+59,,48228,Detroit,28073.12
+60,,48216,Detroit,28040.22
+61,,48211,Detroit,28033.06
+62,,48205,Detroit,27952.29
+63,,48208,Detroit,27867.09
+64,,48226,Detroit,27767.58
+65,,48207,Detroit,27424.94
+66,,48212,Hamtramck,26925.66
+67,,48203,Highland Park,26923.65
+68,,48224,Detroit,26758.51
+69,,48214,Detroit,26730.26
+70,,48209,Detroit,26710.79
+71,,48126,Dearborn,26665.38
+72,,48234,Detroit,26566.42
+73,,48235,Detroit,26516.65
+74,,48223,Detroit,26031.27
+76,,22802,Harrisonburg,2031.22
+77,,24401,Staunton,2033.51
+78,,22815,Broadway,2034.01
+79,,24060,Blacksburg,2035.11
+80,,22840,Mc Gaheysville,2036.30
+81,,22834,Linville,2037.09
+82,,22853,Timberville,2038.95
+83,,24416,Buena Vista,2039.40
+84,,22833,Lacey Spring,2041.03
+85,,24073,Christiansburg,2042.79
+86,,22812,Bridgewater,2043.31
+87,,22801,Harrisonburg,2044.17
+88,,22939,Fishersville,2044.69
+89,,24471,Port Republic,2046.56
+90,,22821,Dayton,2046.69
+91,,22841,Mount Crawford,2048.17
+92,,22830,Fulks Run,2048.95
+93,,22848,Pleasant Valley,2049.22
+94,,22803,Harrisonburg,2050.19
+95,,24141,Radford,2050.57
+96,,22811,Bergton,2050.97
+97,,24435,Fairfield,2053.78
+98,,24486,Weyers Cave,2055.76
+99,,22824,Edinburg,2056.80
 100,Virginia,24450,Lexington,2018.13
 101,Hawaii,96703,Anahola,2198.62
 102,Ohio,44883,Tiffin,2325.38
