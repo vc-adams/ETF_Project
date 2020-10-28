@@ -1,0 +1,237 @@
+,Index,State,Zip_Code,City,Average_Auto_Insurance_Rate,index,Weather_Forecast,Weather_Description,Max_Temperature,Min_Temperature,Humidity
+0,0,Michigan,48226,Detroit,6329.0,0.0,Clouds,overcast clouds,41,37.99,93
+1,0,Michigan,48226,Detroit,6329.0,63.0,Clouds,overcast clouds,41,37.99,93
+2,1,New York,11212,New York,5703.0,1.0,Clouds,overcast clouds,57.2,55,67
+3,1,New York,11212,New York,5703.0,158.0,Clouds,overcast clouds,57.2,55,67
+4,2,Louisiana,70117,New Orleans,4601.0,2.0,Clouds,overcast clouds,80.01,77,100
+5,2,Louisiana,70117,New Orleans,4601.0,193.0,Clouds,overcast clouds,80.01,77,100
+6,3,Nevada,89101,Las Vegas,3768.0,3.0,Clear,clear sky,66.2,57,13
+7,3,Nevada,89101,Las Vegas,3768.0,180.0,Clear,clear sky,66.2,57,13
+8,4,California,91605,North Hollywood,3767.0,4.0,Clear,clear sky,68,59,15
+9,5,Pennsylvania,19140,Philadelphia,3710.0,5.0,Clouds,overcast clouds,57.99,53.01,67
+10,6,Maryland,21216,Baltimore,3443.0,6.0,Clouds,overcast clouds,59,57,93
+11,6,Maryland,21216,Baltimore,3443.0,186.0,Clouds,overcast clouds,59,57,93
+12,7,Kentucky,40944,Goose Rock,3435.0,7.0,Clouds,scattered clouds,62.6,60.01,88
+13,8,Florida,33142,Brownsville,3342.0,8.0,Clouds,few clouds,82.4,80.01,78
+14,8,Florida,33142,Brownsville,3342.0,182.0,Clouds,few clouds,82.4,80.01,78
+15,9,New Jersey,07111,Irvington,3043.0,9.0,Clouds,overcast clouds,57.2,52,62
+16,10,Missouri,63115,St. Louis,3018.0,10.0,Clouds,overcast clouds,41,39,86
+17,11,Massachusetts,02119,Roxbury,2943.0,11.0,Clouds,overcast clouds,50,46,54
+18,11,Massachusetts,02119,Roxbury,2943.0,152.0,Clouds,overcast clouds,50,46,54
+19,12,Rhode Island,02909,Providence,2875.0,12.0,Clouds,broken clouds,51.8,46,57
+20,13,Georgia,30035,Decatur,2777.0,13.0,Clouds,broken clouds,69.8,66,88
+21,14,Illinois,60624,Chicago,2721.0,14.0,Clouds,overcast clouds,37.4,35.01,74
+22,15,Connecticut,06101,Hartford,2667.0,15.0,Clouds,overcast clouds,51.01,48,66
+23,16,Delaware,19736,Yorklyn,2646.0,16.0,Clouds,overcast clouds,57.2,54,76
+24,17,Arizona,85017,Phoenix,2595.0,17.0,Clear,clear sky,62.01,57.99,27
+25,18,Texas,75241,Dallas,2447.0,18.0,Mist,mist,42.8,42.01,87
+26,19,Colorado,80219,Denver,2421.0,19.0,Clear,clear sky,30.99,26.01,54
+27,19,Colorado,80219,Denver,2421.0,178.0,Clear,clear sky,30.99,26.01,54
+28,20,Wisconsin,53206,Milwaukee,2306.0,20.0,Clear,clear sky,33.01,30,83
+29,20,Wisconsin,53206,Milwaukee,2306.0,155.0,Clear,clear sky,33.01,30,83
+30,21,Minnesota,55411,Minneapolis,2292.0,21.0,Clouds,overcast clouds,32,30.99,92
+31,21,Minnesota,55411,Minneapolis,2292.0,191.0,Clouds,overcast clouds,32,30.99,92
+32,22,Dist. Of Columbia,20016,Washington,2188.0,22.0,Clouds,overcast clouds,61,57.99,87
+33,23,Washington,98108,Boulevard Park,2149.0,23.0,Clouds,broken clouds,52,46.99,71
+34,24,Oklahoma,74110,Tulsa,2146.0,24.0,Rain,light rain,35.6,33.01,93
+35,24,Oklahoma,74110,Tulsa,2146.0,185.0,Rain,light rain,35.6,33.01,93
+36,25,Tennessee,38118,Memphis,2120.0,25.0,Clouds,overcast clouds,59,55,87
+37,25,Tennessee,38118,Memphis,2120.0,176.0,Clouds,overcast clouds,59,55,87
+38,26,West Virginia,25621,Gilbert,2119.0,26.0,Clouds,overcast clouds,60.8,55.4,100
+39,26,West Virginia,25621,Gilbert,2119.0,183.0,Clouds,overcast clouds,60.8,55.4,100
+40,27,Oregon,97266,Portland,2068.0,27.0,Clear,clear sky,48.99,44.01,66
+41,28,South Dakota,57756,Manderson,2067.0,28.0,Clear,clear sky,30.2,30.2,68
+42,29,Arkansas,72342,Helena-West Helena,2066.0,29.0,Clouds,overcast clouds,57.2,53.6,100
+43,30,Kansas,66115,Kansas City,2066.0,30.0,Clouds,broken clouds,35.01,33.01,80
+44,30,Kansas,66115,Kansas City,2066.0,170.0,Clouds,broken clouds,35.01,33.01,80
+45,31,South Carolina,29933,Miley,2056.0,31.0,Clouds,overcast clouds,69.8,64.4,94
+46,32,Mississippi,39086,Hermanville,2036.0,32.0,Clouds,overcast clouds,73.99,64.4,100
+47,32,Mississippi,39086,Hermanville,2036.0,171.0,Clouds,overcast clouds,73.99,64.4,100
+48,33,New Mexico,87121,Albuquerque,2030.0,33.0,Clouds,broken clouds,30.99,27,80
+49,33,New Mexico,87121,Albuquerque,2030.0,168.0,Clouds,broken clouds,30.99,27,80
+50,34,Alabama,35208,Birmingham,1991.0,34.0,Clouds,overcast clouds,73.4,71.01,83
+51,35,Utah,84180,Salt Lake City,1910.0,35.0,Clear,clear sky,37.99,30.99,55
+52,36,Nebraska,68110,Omaha,1904.0,36.0,Clear,clear sky,33.8,30,59
+53,37,Alaska,99504,Anchorage,1877.0,37.0,Mist,mist,34,30,80
+54,37,Alaska,99504,Anchorage,1877.0,151.0,Mist,mist,34,30,80
+55,38,North Carolina,28212,Charlotte,1867.0,38.0,Clouds,few clouds,64.4,63,93
+57,40,North Dakota,58538,Fort Yates,1793.0,40.0,Clouds,overcast clouds,36.48,36.48,85
+58,40,North Dakota,58538,Fort Yates,1793.0,188.0,Clouds,overcast clouds,36.48,36.48,85
+59,41,Hawaii,96781,Papaikou,1773.0,41.0,Clouds,broken clouds,80.6,52,74
+60,42,Indiana,46409,Gary,1695.0,42.0,Clouds,overcast clouds,37.99,36,93
+61,43,Iowa,51503,Council Bluffs,1635.0,43.0,Clear,clear sky,32,30,94
+62,44,Ohio,43224,Columbus,1524.0,44.0,Rain,light rain,46.99,46,100
+63,44,Ohio,43224,Columbus,1524.0,150.0,Rain,light rain,46.99,46,100
+64,45,Vermont,05060,Randolph,1452.0,45.0,Clouds,overcast clouds,30,30,94
+65,46,Virginia,22312,Alexandria,1425.0,46.0,Clouds,scattered clouds,61,59,87
+66,46,Virginia,22312,Alexandria,1425.0,148.0,Clouds,scattered clouds,61,59,87
+67,47,Idaho,83536,Kamiah,1415.0,47.0,Clear,clear sky,34,30.99,86
+68,47,Idaho,83536,Kamiah,1415.0,157.0,Clear,clear sky,34,30.99,86
+69,48,New Hampshire,03104,Manchester,1294.0,48.0,Rain,light rain,44.01,39,74
+70,48,New Hampshire,03104,Manchester,1294.0,164.0,Rain,light rain,44.01,39,74
+71,49,Maine,04686,Wesley,1186.0,49.0,Clouds,overcast clouds,34,32,76
+72,51,Michigan,48206,Detroit,29791.56,50.0,Clouds,overcast clouds,41,37,93
+73,52,Michigan,48227,Detroit,29374.46,51.0,Clouds,scattered clouds,41,37,93
+74,53,Michigan,48204,Detroit,29281.79,52.0,Clouds,overcast clouds,41,37.99,93
+75,54,Michigan,48202,Detroit,28946.15,53.0,Clouds,overcast clouds,39.99,37.99,93
+76,55,Michigan,48213,Detroit,28556.49,54.0,Clouds,overcast clouds,39.99,37.99,93
+77,56,Michigan,48210,Detroit,28417.19,55.0,Clouds,overcast clouds,41,37.99,93
+78,57,Michigan,48215,Detroit,28186.14,56.0,Clouds,overcast clouds,39.99,37.99,93
+79,58,Michigan,48238,Detroit,28148.98,57.0,Clouds,overcast clouds,41,37,93
+80,59,Michigan,48228,Detroit,28073.12,58.0,Clouds,scattered clouds,41,37,93
+81,60,Michigan,48216,Detroit,28040.22,59.0,Clouds,overcast clouds,41,37.99,93
+82,61,Michigan,48211,Detroit,28033.06,60.0,Clouds,overcast clouds,39.99,37.99,93
+83,62,Michigan,48205,Detroit,27952.29,61.0,Clouds,overcast clouds,39.99,37.99,93
+84,63,Michigan,48208,Detroit,27867.09,62.0,Clouds,overcast clouds,41,37.99,93
+85,64,Michigan,48226,Detroit,27767.58,0.0,Clouds,overcast clouds,41,37.99,93
+86,64,Michigan,48226,Detroit,27767.58,63.0,Clouds,overcast clouds,41,37.99,93
+87,65,Michigan,48207,Detroit,27424.94,64.0,Clouds,overcast clouds,41,37.99,93
+88,66,Michigan,48212,Hamtramck,26925.66,65.0,Clouds,overcast clouds,39.99,37.99,93
+89,67,Michigan,48203,Highland Park,26923.65,66.0,Clouds,overcast clouds,41,37,93
+90,68,Michigan,48224,Detroit,26758.51,67.0,Clouds,overcast clouds,39.99,37.99,93
+91,69,Michigan,48214,Detroit,26730.26,68.0,Clouds,overcast clouds,39.99,37.99,93
+92,70,Michigan,48209,Detroit,26710.79,69.0,Clouds,overcast clouds,41,37.99,93
+93,71,Michigan,48126,Dearborn,26665.38,70.0,Clouds,overcast clouds,41,37.99,93
+94,72,Michigan,48234,Detroit,26566.42,71.0,Clouds,overcast clouds,39.99,37.99,93
+95,73,Michigan,48235,Detroit,26516.65,72.0,Clouds,scattered clouds,39.2,37,93
+96,74,Michigan,48223,Detroit,26031.27,73.0,Clouds,scattered clouds,41,37,93
+97,76,Virginia,22802,Harrisonburg,2031.22,74.0,Clouds,broken clouds,57,53.01,83
+98,77,Virginia,24401,Staunton,2033.51,75.0,Clouds,scattered clouds,64,54,93
+99,78,Virginia,22815,Broadway,2034.01,76.0,Clouds,broken clouds,55.99,55,88
+100,79,Virginia,24060,Blacksburg,2035.11,77.0,Clouds,overcast clouds,60.8,53.01,100
+101,80,Virginia,22840,Mc Gaheysville,2036.3,78.0,Clouds,overcast clouds,57.2,53.01,93
+102,81,Virginia,22834,Linville,2037.09,79.0,Clouds,broken clouds,57,55,88
+103,82,Virginia,22853,Timberville,2038.95,80.0,Clouds,scattered clouds,55.99,55,88
+104,83,Virginia,24416,Buena Vista,2039.4,81.0,Clouds,broken clouds,62.01,61,93
+105,84,Virginia,22833,Lacey Spring,2041.03,82.0,Clouds,broken clouds,57,55,83
+106,85,Virginia,24073,Christiansburg,2042.79,83.0,Clouds,overcast clouds,60.8,55,100
+107,86,Virginia,22812,Bridgewater,2043.31,84.0,Clear,clear sky,57.99,53.6,100
+108,87,Virginia,22801,Harrisonburg,2044.17,85.0,Clear,clear sky,57,53.01,100
+109,88,Virginia,22939,Fishersville,2044.69,86.0,Clouds,scattered clouds,64,54,93
+110,89,Virginia,24471,Port Republic,2046.56,87.0,Clouds,overcast clouds,57.2,53.01,93
+111,90,Virginia,22821,Dayton,2046.69,88.0,Clear,clear sky,57,53.6,100
+112,91,Virginia,22841,Mount Crawford,2048.17,89.0,Clear,clear sky,57.99,53.01,100
+113,92,Virginia,22830,Fulks Run,2048.95,90.0,Clouds,scattered clouds,55.99,55,88
+114,93,Virginia,22848,Pleasant Valley,2049.22,91.0,Clear,clear sky,57.99,53.01,100
+115,94,Virginia,22803,Harrisonburg,2050.19,92.0,Clear,clear sky,57,53.01,100
+116,95,Virginia,24141,Radford,2050.57,93.0,Clouds,overcast clouds,60.8,55,93
+117,96,Virginia,22811,Bergton,2050.97,94.0,Clouds,scattered clouds,57,55,95
+118,97,Virginia,24435,Fairfield,2053.78,95.0,Clouds,broken clouds,62.01,60.01,91
+119,98,Virginia,24486,Weyers Cave,2055.76,96.0,Clouds,overcast clouds,57.99,53.6,93
+120,99,Virginia,22824,Edinburg,2056.8,97.0,Clouds,broken clouds,57.99,54,91
+121,100,Virginia,24450,Lexington,2018.13,98.0,Clouds,overcast clouds,62.01,61,93
+122,101,Hawaii,96703,Anahola,2198.62,99.0,Clouds,broken clouds,80.6,73.99,69
+123,102,Ohio,44883,Tiffin,2325.38,100.0,Clouds,overcast clouds,43,41,96
+125,104,Massachusetts,02554,Nantucket,2378.9,102.0,Clouds,overcast clouds,51.8,50,71
+126,105,Maine,04742,Fort Fairfield,2403.9,103.0,Clouds,overcast clouds,28.4,27,68
+127,106,Washington,98368,Port Townsend,2461.54,104.0,Clouds,scattered clouds,53.01,52,74
+128,107,Wisconsin,54130,Kaukauna,2491.3,105.0,Clouds,overcast clouds,36,32,56
+129,108,Iowa,52241,Coralville,2598.27,106.0,Clear,clear sky,28.99,27,68
+130,109,Idaho,83716,Boise,2612.88,107.0,Clear,clear sky,48.2,41,45
+131,110,New York,14830,Corning,2729.59,108.0,Clouds,overcast clouds,46.4,39.99,93
+132,111,California,93401,San Luis Obispo,2731.32,109.0,Clear,clear sky,60.8,53.01,72
+133,112,Illinois,61443,Kewanee,2792.51,110.0,Clouds,overcast clouds,37,30,82
+134,113,North Carolina,28701,Alexander,2860.59,111.0,Clouds,few clouds,62.01,57.99,95
+135,114,Montanna,59635,East Helena,2866.45,112.0,Clear,clear sky,46.4,34,45
+136,115,Arizona,86403,Lake Havasu City,2883.46,113.0,Clouds,few clouds,66.2,66.2,9
+137,116,New Hampshire,03431,Keene,2887.77,114.0,Rain,light rain,43,39.99,87
+138,117,Wyoming,82801,Sheridan,2896.66,115.0,Clear,clear sky,42.8,37,56
+139,118,Indiana,47909,Lafayette,2931.86,116.0,Clouds,overcast clouds,44.6,42.01,93
+140,119,Missouri,65301,Sedalia,2938.18,117.0,Mist,mist,34,33.01,100
+141,120,New Mexico,88310,Alamogordo,2948.89,118.0,Clouds,broken clouds,32,21.99,92
+142,121,Oregon,97850,La Grande,2953.6,119.0,Clear,clear sky,44.01,42.8,60
+143,122,Kansas,67401,Salina,2954.93,120.0,Clouds,broken clouds,33.8,33.8,69
+144,123,Mississippi,39759,Starkville,3077.33,121.0,Clouds,overcast clouds,68,62.6,100
+145,124,Vermont,05446,Colchester,3098.67,122.0,Clouds,overcast clouds,34,30,86
+146,125,Pennsylvania,16823,Bellefonte,3116.01,123.0,Rain,heavy intensity rain,48,46,100
+147,126,Nebraska,68803,Grand Island,3133.81,124.0,Clear,clear sky,30.2,25,58
+148,127,Texas,76901,San Angelo,3157.68,125.0,Rain,light rain,33.8,32,86
+149,128,Tennessee,37601,Johnson City,3173.65,126.0,Clouds,overcast clouds,64.4,60.01,87
+150,129,Utah,84721,Cedar City,3239.58,127.0,Clear,clear sky,35.6,35.6,24
+151,130,Colorado,81504,Grand Junction,3291.13,128.0,Clear,clear sky,28,26.01,68
+152,131,Alabama,36360,Ozark,3310.05,129.0,Clouds,overcast clouds,73.4,73.4,100
+153,132,Nevada,89406,Fallon,3411.08,130.0,Clear,clear sky,45,42.8,24
+154,133,South Dakota,57201,Watertown,3467.81,131.0,Clear,clear sky,30,28.4,68
+155,134,Florida,32694,Waldo,3481.35,132.0,Clouds,broken clouds,75.2,75,100
+156,135,West Virginia,25401,Martinsburg,3519.1,133.0,Clouds,overcast clouds,57.99,57,82
+157,136,Kentucky,42303,Owensboro,3562.72,134.0,Clouds,overcast clouds,51.8,51.01,100
+158,137,Oklahoma,73555,Manitou,3646.98,135.0,Mist,mist,32,30,98
+159,138,Maryland,21783,Smithsburg,3658.86,136.0,Clouds,overcast clouds,57.99,53.6,71
+160,139,Arkansas,72626,Cotter,3675.93,137.0,Clouds,overcast clouds,44.01,42.01,100
+161,140,North Dakota,58104,Fargo,3677.18,138.0,Clouds,overcast clouds,33.01,32,92
+162,141,Connecticut,06340,Groton,3896.1,139.0,Clouds,overcast clouds,52,51.01,73
+163,142,Rhode Island,02842,Middletown,3908.01,140.0,Clouds,overcast clouds,53.6,48.99,57
+164,143,Minnesota,56007,Albert Lea,3976.8,141.0,Clear,clear sky,30.2,28.4,68
+165,144,Georgia,31699,Moody AFB,3976.82,142.0,Mist,mist,75.2,73,94
+167,146,District Of Columbia,20001,Washington,4383.61,144.0,Clouds,overcast clouds,61,57.99,87
+168,147,New Jersey,07926,Brookside,4592.17,145.0,Clouds,overcast clouds,54,48,71
+169,148,Delaware,19930,Bethany Beach,4953.79,146.0,Clouds,overcast clouds,62.01,57.99,87
+170,149,Michigan,48880,Saint Louis,7916.29,147.0,Clouds,broken clouds,37.4,33.01,86
+171,150,Virginia,22312,Alexandria,2871.02,46.0,Clouds,scattered clouds,61,59,87
+172,150,Virginia,22312,Alexandria,2871.02,148.0,Clouds,scattered clouds,61,59,87
+173,151,Hawaii,96704,Captain Cook,2859.11,149.0,Clouds,overcast clouds,84.2,73,66
+174,152,Ohio,43224,Columbus,3667.48,44.0,Rain,light rain,46.99,46,100
+175,152,Ohio,43224,Columbus,3667.48,150.0,Rain,light rain,46.99,46,100
+176,153,Alaska,99504,Anchorage,3132.74,37.0,Mist,mist,34,30,80
+177,153,Alaska,99504,Anchorage,3132.74,151.0,Mist,mist,34,30,80
+178,154,Massachusetts,02119,Boston,5333.79,11.0,Clouds,overcast clouds,50,46,54
+179,154,Massachusetts,02119,Boston,5333.79,152.0,Clouds,overcast clouds,50,46,54
+180,155,Maine,04684,Surry,2785.77,153.0,Clouds,scattered clouds,39.2,36,55
+181,156,Washington,98118,Seattle,4079.23,154.0,Clouds,broken clouds,52,46,71
+182,157,Wisconsin,53206,Milwaukee,5102.46,20.0,Clear,clear sky,33.01,30,83
+183,157,Wisconsin,53206,Milwaukee,5102.46,155.0,Clear,clear sky,33.01,30,83
+184,158,Iowa,51501,Council Bluffs,3633.75,156.0,Clear,clear sky,33.8,30,59
+185,159,Idaho,83536,Kamiah,3008.28,47.0,Clear,clear sky,34,30.99,86
+186,159,Idaho,83536,Kamiah,3008.28,157.0,Clear,clear sky,34,30.99,86
+187,160,New York,11212,Brooklyn,10751.24,1.0,Clouds,overcast clouds,57.2,55,67
+188,160,New York,11212,Brooklyn,10751.24,158.0,Clouds,overcast clouds,57.2,55,67
+189,161,California,90210,Beverly Hills,6324.83,159.0,Clear,clear sky,68,61,68
+190,162,Illinois,60636,Chicago,5437.22,160.0,Clouds,overcast clouds,36,35.01,74
+191,163,North Carolina,28205,Charlotte,4803.84,161.0,Clouds,few clouds,64.4,62.01,93
+193,165,Arizona,85009,Phoenix,5479.07,163.0,Clouds,few clouds,62.6,57.99,20
+194,166,New Hampshire,03104,Manchester,3845.88,48.0,Rain,light rain,44.01,39,74
+195,166,New Hampshire,03104,Manchester,3845.88,164.0,Rain,light rain,44.01,39,74
+196,167,Wyoming,83414,Alta,3156.85,165.0,Clear,clear sky,24.8,24.8,85
+197,168,Indiana,46402,Gary,4747.17,166.0,Clouds,overcast clouds,37.99,36,93
+198,169,Missouri,63120,Saint Louis,5220.97,167.0,Clouds,overcast clouds,41,39,86
+199,170,New Mexico,87121,Albuquerque,4364.29,33.0,Clouds,broken clouds,30.99,27,80
+200,170,New Mexico,87121,Albuquerque,4364.29,168.0,Clouds,broken clouds,30.99,27,80
+201,171,Oregon,97236,Portland,4908.54,169.0,Clear,clear sky,48.99,44.01,66
+202,172,Kansas,66115,Kansas City,4318.12,30.0,Clouds,broken clouds,35.01,33.01,80
+203,172,Kansas,66115,Kansas City,4318.12,170.0,Clouds,broken clouds,35.01,33.01,80
+204,173,Mississippi,39086,Hermanville,4323.64,32.0,Clouds,overcast clouds,73.99,64.4,100
+205,173,Mississippi,39086,Hermanville,4323.64,171.0,Clouds,overcast clouds,73.99,64.4,100
+206,174,Vermont,05079,Vershire,3314.44,172.0,Clouds,overcast clouds,36,30,84
+207,175,Pennsylvania,19133,Philadelphia,8527.54,173.0,Clouds,overcast clouds,57.99,54,67
+208,176,Nebraska,68111,Omaha,4516.91,174.0,Clear,clear sky,33.8,30,59
+210,178,Tennessee,38118,Memphis,4991.62,25.0,Clouds,overcast clouds,59,55,87
+211,178,Tennessee,38118,Memphis,4991.62,176.0,Clouds,overcast clouds,59,55,87
+212,179,Utah,84104,Salt Lake City,4580.22,177.0,Clear,clear sky,37,30.99,55
+213,180,Colorado,80219,Denver,4762.4,19.0,Clear,clear sky,30.99,26.01,54
+214,180,Colorado,80219,Denver,4762.4,178.0,Clear,clear sky,30.99,26.01,54
+215,181,Alabama,35218,Birmingham,4428.6,179.0,Clouds,overcast clouds,73.4,71.01,83
+216,182,Nevada,89101,Las Vegas,7486.53,3.0,Clear,clear sky,66.2,57,13
+217,182,Nevada,89101,Las Vegas,7486.53,180.0,Clear,clear sky,66.2,57,13
+218,183,South Dakota,57770,Pine Ridge,4695.24,181.0,Clear,clear sky,30.2,24.8,68
+219,184,Florida,33142,Miami,7631.16,8.0,Clouds,few clouds,82.4,80.01,78
+220,184,Florida,33142,Miami,7631.16,182.0,Clouds,few clouds,82.4,80.01,78
+221,185,West Virginia,25621,Gilbert,5111.14,26.0,Clouds,overcast clouds,60.8,55.4,100
+222,185,West Virginia,25621,Gilbert,5111.14,183.0,Clouds,overcast clouds,60.8,55.4,100
+223,186,Kentucky,41542,Lookout,7400.56,184.0,Clear,clear sky,59,57,100
+224,187,Oklahoma,74110,Tulsa,5150.5,24.0,Rain,light rain,35.6,33.01,93
+225,187,Oklahoma,74110,Tulsa,5150.5,185.0,Rain,light rain,35.6,33.01,93
+226,188,Maryland,21216,Baltimore,8830.19,6.0,Clouds,overcast clouds,59,57,93
+227,188,Maryland,21216,Baltimore,8830.19,186.0,Clouds,overcast clouds,59,57,93
+228,189,Arkansas,72202,Little Rock,4957.15,187.0,Mist,mist,48.2,46,93
+229,190,North Dakota,58538,Fort Yates,4477.64,40.0,Clouds,overcast clouds,36.48,36.48,85
+230,190,North Dakota,58538,Fort Yates,4477.64,188.0,Clouds,overcast clouds,36.48,36.48,85
+231,191,Connecticut,06103,Hartford,6373.96,189.0,Clouds,overcast clouds,51.01,46.99,66
+232,192,Rhode Island,02907,Providence,7262.39,190.0,Clouds,broken clouds,51.01,46,81
+233,193,Minnesota,55411,Minneapolis,6620.56,21.0,Clouds,overcast clouds,32,30.99,92
+234,193,Minnesota,55411,Minneapolis,6620.56,191.0,Clouds,overcast clouds,32,30.99,92
+235,194,Georgia,30314,Atlanta,6991.02,192.0,Clouds,broken clouds,69.8,66.2,100
+236,195,Louisiana,70117,New Orleans,9303.5,2.0,Clouds,overcast clouds,80.01,77,100
+237,195,Louisiana,70117,New Orleans,9303.5,193.0,Clouds,overcast clouds,80.01,77,100
+238,196,District Of Columbia,20002,Washington,4440.79,194.0,Clouds,overcast clouds,61,57.99,87
+239,197,New Jersey,07102,Newark,8512.59,195.0,Clouds,overcast clouds,57.2,53.01,62
+240,199,Michigan,48201,Detroit,30350.09,196.0,Clouds,overcast clouds,41,37.99,93
