@@ -16,8 +16,8 @@ https://www.autoinsurance.org/quoting-auto-insurance-rates-by-zip-code/ <br>
 Weather data: <br>
 http://api.openweathermap.org/api <br>
 
-Transform: We will clean and merge the data from each resource. The creation and utiliztaion of a flask app will allow the user to extract auto insurance data as well as weather data for comparision and/or analysis. <br>
+Transform: We will clean and merge the data from each resource. The creation and utilization of a flask app will allow the user to extract auto insurance data as well as weather data for comparison and/or analysis. <br>
 
-Load: We then intend to load said data into a postgres database, join the data tables by location, and prodcue the information via a search, all from our flask server. <br>
+Load: We then intend to load said data into a postgres database, join the data tables by location, and produce the information via a search, all from our flask server. <br>
 
-The flask app allows callalbe the data when a client requests information via each route. <br>
+The flask app allows callable the data when a client requests information via each route. <br>
