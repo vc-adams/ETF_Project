@@ -1,7 +1,7 @@
 # ETF_Project
 
-# PROJECT PROPOSAL <br>
-## ETL PROJECT: Group 1 <br>
+## PROJECT PROPOSAL <br>
+### ETL PROJECT: Group 1 <br>
 
 ### Team Members: Rob Pascarella, Vincent Adams, Emeka Obianyor  <br>
 
